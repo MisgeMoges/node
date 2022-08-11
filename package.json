@@ -1,0 +1,11 @@
+{
+  "name": "node-examples",
+  "version": "1.0.0",
+  "description": "I'll Simply Type Simple Node Examples",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Misge Moges",
+  "license": "ISC"
+}
